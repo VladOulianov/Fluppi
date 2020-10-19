@@ -1,0 +1,16 @@
+C:\Users\Nicolas\source\repos\Fluppi\Fluppi\bin\Debug\netcoreapp3.1\Fluppi.exe
+C:\Users\Nicolas\source\repos\Fluppi\Fluppi\bin\Debug\netcoreapp3.1\Fluppi.deps.json
+C:\Users\Nicolas\source\repos\Fluppi\Fluppi\bin\Debug\netcoreapp3.1\Fluppi.runtimeconfig.json
+C:\Users\Nicolas\source\repos\Fluppi\Fluppi\bin\Debug\netcoreapp3.1\Fluppi.runtimeconfig.dev.json
+C:\Users\Nicolas\source\repos\Fluppi\Fluppi\bin\Debug\netcoreapp3.1\Fluppi.dll
+C:\Users\Nicolas\source\repos\Fluppi\Fluppi\bin\Debug\netcoreapp3.1\Fluppi.pdb
+C:\Users\Nicolas\source\repos\Fluppi\Fluppi\obj\Debug\netcoreapp3.1\Fluppi.csprojAssemblyReference.cache
+C:\Users\Nicolas\source\repos\Fluppi\Fluppi\obj\Debug\netcoreapp3.1\Fluppi.Form1.resources
+C:\Users\Nicolas\source\repos\Fluppi\Fluppi\obj\Debug\netcoreapp3.1\Fluppi.Properties.Resources.resources
+C:\Users\Nicolas\source\repos\Fluppi\Fluppi\obj\Debug\netcoreapp3.1\Fluppi.csproj.GenerateResource.cache
+C:\Users\Nicolas\source\repos\Fluppi\Fluppi\obj\Debug\netcoreapp3.1\Fluppi.AssemblyInfoInputs.cache
+C:\Users\Nicolas\source\repos\Fluppi\Fluppi\obj\Debug\netcoreapp3.1\Fluppi.AssemblyInfo.cs
+C:\Users\Nicolas\source\repos\Fluppi\Fluppi\obj\Debug\netcoreapp3.1\Fluppi.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\Fluppi\Fluppi\obj\Debug\netcoreapp3.1\Fluppi.dll
+C:\Users\Nicolas\source\repos\Fluppi\Fluppi\obj\Debug\netcoreapp3.1\Fluppi.pdb
+C:\Users\Nicolas\source\repos\Fluppi\Fluppi\obj\Debug\netcoreapp3.1\Fluppi.genruntimeconfig.cache
